@@ -1,0 +1,19 @@
+{
+    "articles": [
+        {
+            "author": "Mark Avrely",
+            "title": "Lecture 1",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut imperdiet felis, non tempor ex. Morbi non metus mollis, sagittis nibh nec, faucibus leo. Aenean scelerisque nisi vitae ante hendrerit malesuada. Proin mollis ligula a porta condimentum. Donec quis urna et nisi placerat hendrerit. Integer lobortis metus neque, in pharetra odio aliquam sit amet. Vivamus risus sapien, euismod id aliquam quis, vehicula quis metus. Aenean malesuada molestie facilisis. Mauris vitae tempus eros. Nullam lectus sem, euismod eu nunc quis, dignissim maximus arcu. Phasellus venenatis diam metus, non semper felis ullamcorper rhoncus. Suspendisse ipsum diam, consectetur vitae libero non, scelerisque aliquam arcu. Curabitur eget erat posuere, porttitor quam consequat, dignissim arcu. Cras efficitur imperdiet quam sit amet placerat. "
+        },
+        {
+            "author": "Johny Walker",
+            "title": "Wiskie",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut imperdiet felis, non tempor ex. Morbi non metus mollis, sagittis nibh nec, faucibus leo. Aenean scelerisque nisi vitae ante hendrerit malesuada. Proin mollis ligula a porta condimentum. Donec quis urna et nisi placerat hendrerit. Integer lobortis metus neque, in pharetra odio aliquam sit amet. Vivamus risus sapien, euismod id aliquam quis, vehicula quis metus. Aenean malesuada molestie facilisis. Mauris vitae tempus eros. Nullam lectus sem, euismod eu nunc quis, dignissim maximus arcu. Phasellus venenatis diam metus, non semper felis ullamcorper rhoncus. Suspendisse ipsum diam, consectetur vitae libero non, scelerisque aliquam arcu. Curabitur eget erat posuere, porttitor quam consequat, dignissim arcu. Cras efficitur imperdiet quam sit amet placerat. "
+        },
+        {
+            "author": "John Deer",
+            "title": "...about tractors.",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut imperdiet felis, non tempor ex. Morbi non metus mollis, sagittis nibh nec, faucibus leo. Aenean scelerisque nisi vitae ante hendrerit malesuada. Proin mollis ligula a porta condimentum. Donec quis urna et nisi placerat hendrerit. Integer lobortis metus neque, in pharetra odio aliquam sit amet. Vivamus risus sapien, euismod id aliquam quis, vehicula quis metus. Aenean malesuada molestie facilisis. Mauris vitae tempus eros. Nullam lectus sem, euismod eu nunc quis, dignissim maximus arcu. Phasellus venenatis diam metus, non semper felis ullamcorper rhoncus. Suspendisse ipsum diam, consectetur vitae libero non, scelerisque aliquam arcu. Curabitur eget erat posuere, porttitor quam consequat, dignissim arcu. Cras efficitur imperdiet quam sit amet placerat. "
+        }
+    ]
+}

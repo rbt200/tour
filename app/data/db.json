@@ -1,0 +1,9 @@
+{
+    "pages": [
+        {
+            "page": "home",
+            "img": ["yellow_medium.png", "blue_medium.png", "purple_medium.png",
+                "yellow_medium.png", "blue_medium.png", "purple_medium.png"]
+        }
+    ]
+}

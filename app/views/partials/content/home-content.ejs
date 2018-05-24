@@ -1,0 +1,13 @@
+<div class="tour__front-page">
+    <% for (let i = 0; i < pageImg.length; i++) { %>
+        <aside class="front-page__destination">
+            <div class="destination__container">
+            <a class="destination__link" href="#" title="Destination">
+            <img class="destination__img" src="/images/<%= pageImg[i] %>" alt="London">
+            </a>
+            <p class="destination__top-left">destination</p>
+            <p class="destination__bottom-left">duration</p>
+            <p class="destination__bottom-right">price</p>
+        </aside>
+    <% } %>
+</div>

@@ -18,10 +18,8 @@ app.locals.siteTitle = 'Tour';
 app.use(express.static('app/public'));
 app.use(require('./routes/index'));
 app.use(require('./routes/contact'));
-app.use(require('./routes/speakers'));
 app.use(require('./routes/login'));
 app.use(require('./routes/blog'));
-app.use(require('./routes/feedback'));
 app.use(require('./routes/api'));
 app.use(require('./routes/chat'));
 

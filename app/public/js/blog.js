@@ -2,7 +2,6 @@ $(function() {
   $.getJSON('api', updateFeedback);
   
   $('.feedback-form').submit(function(e) {
-    // console.log($(this).find('.feedback-form__name').val());
     e.preventDefault();
     $.post('api', {
       target: $(this).parent().parent().find('.blog-title').text(),
@@ -14,7 +13,6 @@ $(function() {
 
   $('.feedback-form-group').on('click', function(e) {
     if(e.target.className === 'recent-feedbacks__feedback-remove') {
-      // console.log(e.target);
       $.ajax({
          
       });

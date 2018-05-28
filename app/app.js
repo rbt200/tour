@@ -3,7 +3,7 @@ import chalk from 'chalk';
 import reload from 'reload';
 import dataFile from './data/db.json';
 import dataBlog from './data/blog.json';
-var io = require('socket.io')();
+const io = require('socket.io')();
 
 const app = express();
 

@@ -29,7 +29,6 @@ $(function() {
       output += `
       <h6 class='recent-feedbacks__name'>${val2.name}</h6>
       <p class='recent-feedbacks__feedback'>${val2.content}</p>
-      <input type='button' class='recent-feedbacks__feedback-remove' value='Delete feedback'>
       `;
     });    
     feedback.html(output);   
